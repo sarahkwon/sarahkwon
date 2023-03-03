@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarah Kwon and welcome to my Github!</h1>
-<h3 align="center">I'm currently a 4th year Computer Science student attending UCSB</h3>
+<h3 align="center">I'm a 4th year Computer Science student attending UCSB</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/sarahkwon/sarahkwon.github.io)!
 
 - 🌱 I’m currently learning **React, UI/UX**
 
-- 👨‍💻 All of my projects are available [right here](https://github.com/sarahkwon)
+- 💬 About Me: I love Spongebob
 
-- 📫 How to reach me **sarahkwon0415@gmail.com**
+- 📫 How to reach me: **sarahkwon0415@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
