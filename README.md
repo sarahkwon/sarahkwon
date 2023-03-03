@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, UI/UX**
 
-- 💬 About Me: I love Spongebob
+- 💬 About Me: I love watching Spongebob on TikTok
 
 - 📫 How to reach me: **sarahkwon0415@gmail.com**
 
