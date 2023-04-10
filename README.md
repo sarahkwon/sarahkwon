@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Kwon and welcome to my Github!</h1>
-<h3 align="center">I'm a 4th year Computer Science student attending UCSB working to become a full-stack developer</h3>
+<h3 align="center">I'm a 4th year UCSB Computer Science student working to become a full-stack developer</h3>
 
 - 🔭 I’m currently working on [REST Countries Website](https://github.com/sarahkwon/REST-Countries-Website)!
 
