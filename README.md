@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarah Kwon and welcome to my Github!</h1>
 <h3 align="center">I'm a 4th year Computer Science student attending UCSB</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/sarahkwon/sarahkwon.github.io)!
+- 🔭 I’m currently working on [REST Countries Website](https://github.com/sarahkwon/REST-Countries-Website)!
 
-- 🌱 I’m currently learning **React, UI/UX**
+- 🌱 I’m currently learning **React, CSS3 (flexbox, grid, animations), HTML5 (semantics)**
 
 - 💬 About Me: I like Spongebob
 
